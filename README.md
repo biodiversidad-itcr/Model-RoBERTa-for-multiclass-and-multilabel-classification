@@ -2,7 +2,10 @@
 
 ## Description
 
+### RoBERTa_Multiclass_Classification.ipynb
 The project aims to implement a text classification model based on the RoBERTa architecture, adapted to handle multiple classes. It covers the entire process from data loading and preparation to training, evaluation, and model usage for predictions.
+
+### Next Notebook
 
 ## Features
 
@@ -12,8 +15,9 @@ The project aims to implement a text classification model based on the RoBERTa a
 - **Training and Evaluation**: Provides model training configuration and performance metrics.
 - **GPU Support**: Configured to leverage GPU acceleration when available (e.g., A100 GPU).
 
-## Notebook Structure
+## Notebook Structure 
 
+### RoBERTa_Multiclass_Classification.ipynb
 - **Data Loading**: Examples of loading and visualizing datasets.
 - **Preprocessing**: Text cleaning and preparation for model input.
 - **Model Definition**: Configuration and loading of the RoBERTa classification model.
